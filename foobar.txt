@@ -1,1 +1,1 @@
-foobar
+foobar is neither foo nor bar
